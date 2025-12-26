@@ -15,7 +15,8 @@ A simple, end-to-end chatbot that **collects a user’s profile**, **maps job sp
 ---
 
 ## Files
-- `JobAssistAI_Chatbot_Project.ipynb` – main notebook/script containing all stages (moderation, intent confirmation, product mapping, matching, recommendation, dialogue loop). 
+- `JobAssistAI_Chatbot_Project.ipynb` – main notebook/script containing all stages (moderation, intent confirmation, product mapping, matching, recommendation, dialogue loop).
+- `job_postings.csv` - the data file which contains available jobs with the associated job details and descriptions
 
 ---
 
